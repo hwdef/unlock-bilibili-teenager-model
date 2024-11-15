@@ -1,6 +1,8 @@
 # unlock-bilibili-teenager-model
 解锁bilbili青少年模式
 
+*目前解锁青少年模式有次数限制，此项目无效了*
+
 ## 使用方法
 
 1. 下载 adb ，加入到环境变量
